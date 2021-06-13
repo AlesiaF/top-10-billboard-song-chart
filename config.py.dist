@@ -1,0 +1,4 @@
+api_date = '2021-06-10'
+api_url = 'https://billboard-api2.p.rapidapi.com/hot-100'
+api_key = ~
+api_path = 'billboard-api2.p.rapidapi.com'
